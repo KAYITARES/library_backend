@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "cynthia",
+    "password": "cycy~3696",
+    "database": "libraryandela",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "cynthia",
+    "password": "cycy~3696",
+    "database": "libraryandela",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "cynthia",
+    "password": "cycy~3696",
+    "database": "libraryandela",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
